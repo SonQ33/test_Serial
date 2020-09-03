@@ -1,5 +1,5 @@
 name = bytes('SPb_CTF_2017', 'utf-8')
-
+print("SPb_CTF_2017")
 
 valid = [
 	int.from_bytes(name[:4], 'big'),
